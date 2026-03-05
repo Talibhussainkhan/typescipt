@@ -7,7 +7,7 @@ function abc ( a : id){
     console.log(a)
 }
 
-// intersection = n TypeScript, an intersection (&) type combines multiple types 
+// intersection = In TypeScript, an intersection (&) type combines multiple types 
 // into one, requiring an object or value to possess all properties/characteristics of 
 // every constituent type.
 
